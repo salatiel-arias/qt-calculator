@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calculatorProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calcEngineLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calcEngineLib-Debug-94189d421bb2de8e08b5.json",
+					"name" : "calcEngineLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calcEngineLib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calcEngineLib_autogen-Debug-827cc2e5375746002a32.json",
+					"name" : "calcEngineLib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculatorProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculatorProject-Debug-2deaee21656a5846b529.json",
+					"name" : "calculatorProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculatorProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculatorProject_autogen-Debug-b7a88f6c28419b40a67f.json",
+					"name" : "calculatorProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "customButtonsLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-customButtonsLib-Debug-79fd0bbaf1ae20f1e6a4.json",
+					"name" : "customButtonsLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "customButtonsLib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-customButtonsLib_autogen-Debug-6b41c88a63b8757483c5.json",
+					"name" : "customButtonsLib_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/salatiel/code/calculatorProject/build",
+		"source" : "/home/salatiel/code/calculatorProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
